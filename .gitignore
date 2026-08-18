@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Scan output
+te_autoscan_out/
+*.csv
+!examples/**/*.csv
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
