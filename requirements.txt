@@ -1,0 +1,7 @@
+gemmi>=0.6
+numpy
+
+# For pymol/chapter3_panels.py:
+#   PyMOL itself (install via conda: `conda install -c conda-forge pymol-open-source`,
+#   or use a licensed PyMOL build) plus Pillow for the autocrop step:
+# Pillow
