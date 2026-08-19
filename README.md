@@ -1,4 +1,4 @@
-# 5008 Masters Thesis by Anusara Kannangara
+# Masters Thesis by Anusara Kannangara
 
 Code accompanying the Masters thesis *BMS5008 — Understanding Thioesterase
 Domain Involved in Peptide Antibiotic Cyclisation*, investigating whether
