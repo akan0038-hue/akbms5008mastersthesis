@@ -1,6 +1,6 @@
 # akbms5008mastersthesis
 
-Code accompanying the Masters thesis *BMS5008 — [title]*, investigating
+Code accompanying the Masters thesis *BMS5008 — Understanding Thioesterase Domain Involved in Peptide Antibiotic Cyclisation*, investigating
 whether AlphaFold3 (AF3) predicts near-attack conformations for
 thioesterase (TE) domain-mediated macrocyclisation of non-ribosomal
 peptide substrates, across the ramoplanin and pristinamycin/virginiamycin
