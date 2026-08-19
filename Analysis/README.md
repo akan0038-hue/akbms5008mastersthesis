@@ -4,6 +4,11 @@ Hands-off nucleophile detection and catalytic-His geometry scanning for
 AlphaFold3 models of NRPS thioesterase (TE) domain complexes, plus the
 downstream R analysis and PyMOL figure scripts built on top of it.
 
+Takes AF3 output as input — the AF3 runs themselves are generated and
+submitted by the scripts in `../AF3 job scripts/` (see that folder's
+README), using sequences from `../FASTA/`. This folder only needs a
+completed AF3 output tree; it doesn't care how that tree was produced.
+
 ```
 .
 ├── te_autoscan.py     # the scan itself (this section of the README)
