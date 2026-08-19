@@ -13,10 +13,9 @@ cross-screen (Section 3.2).
 
 | File | Domain |
 |---|---|
-| `ramo_te199.fasta` | Ramoplanin TE domain |
-| `endura_te_199a.fasta` | Enduracidin TE domain |
-| `che_nohisortag.fa` | Chersinamycin TE domain (His-tag removed) |
-| `virginiamycin.fa` | Virginiamycin TE domain |
+| `ramoplanin.fasta` | Ramoplanin TE domain |
+| `enduracidin.fasta` | Enduracidin TE domain |
+| `chersinamycin.fa` | Chersinamycin TE domain |
 
 ## `pris/` — pristinamycin/virginiamycin domains
 
