@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31183909/README.md)
-# te_autoscan
+# Output Analysis
 
 Hands-off nucleophile detection and catalytic-His geometry scanning for
 AlphaFold3 models of NRPS thioesterase (TE) domain complexes, plus the
