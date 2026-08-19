@@ -1,4 +1,4 @@
-# akbms5008mastersthesis
+# 5008 Masters Thesis by Anusara Kannangara
 
 Code accompanying the Masters thesis *BMS5008 — Understanding Thioesterase Domain Involved in Peptide Antibiotic Cyclisation*, investigating
 whether AlphaFold3 (AF3) predicts near-attack conformations for
